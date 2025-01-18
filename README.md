@@ -1,6 +1,6 @@
 # Tasks Overview(This repo has 2 tasks Other has Django task)
 
-This repository contains the implementation of a web application with a responsive frontend and a Django chat application, along with AWS Lambda functions.
+This repository contains the implementation of a web application with a responsive frontend, along with AWS Lambda functions. (Django chat application in https://github.com/MohassinHussain/chat_app_assign this repo)
 
 ## Frontend Development
 
