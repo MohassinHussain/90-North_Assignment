@@ -43,13 +43,14 @@ The frontend of this project consists of a responsive webpage with the following
     Change the directory to Task 1. Responsive_website, "cd Task 1. Responsive_website"
     Either use VS Code extension "Go live"
     Or use directly "localhost:8000"
+
     Note: Do not forget to uncomment the lines(72, 73), to see the shrik function execution
 
 ## AWS Tasks are in the file. Self Explanatory
     The Sample events(tested) and outputs are in the file.
 
 ## Navbar Output
-![Screenshot (115)](https://github.com/user-attachments/assets/f43a1560-6173-43bc-acee-d0f7e484f22f)
-
+![Screenshot (115)](https://github.com/user-attachments/assets/b742a8fe-f1be-4a7f-b13c-4391bf27c3f6)
+![Screenshot (116)](https://github.com/user-attachments/assets/0086dc81-622f-4d5d-b1e0-b1811e96f7ec)
 
 # Thank You!
