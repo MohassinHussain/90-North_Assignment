@@ -48,6 +48,8 @@ The frontend of this project consists of a responsive webpage with the following
 ## AWS Tasks are in the file. Self Explanatory
     The Sample events(tested) and outputs are in the file.
 
+## Navbar Output
+![Screenshot (115)](https://github.com/user-attachments/assets/f43a1560-6173-43bc-acee-d0f7e484f22f)
 
 
 # Thank You!
